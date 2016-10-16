@@ -1,0 +1,25 @@
+{
+  "name": "web3-fake-provider",
+  "description": "A mock provider class that can be used with Ethereum web3.js",
+  "version": "0.1.0",
+  "license": "LGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raineorshine/web3-fake-provider.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "mock",
+    "fake",
+    "provider"
+  ],
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "web3": "^0.16.0"
+  }
+}
